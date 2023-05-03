@@ -1,0 +1,7 @@
+Download Link: https://assignmentchef.com/product/solved-critical-thinking-assignment-solution
+<br>
+<p class="ui header product-top-header" title="CRITICAL THINKING ASSIGNMENT Solved">Complete the assignment below. Ensure that all of your assignment deliverables are attached before submitting your assignment.Visual Basic .NET Application – Coding Exercise 4 (Exercise 2, Zak, 2016, p. 692) In this exercise,Create an empty website application named Carnival and save it in the VB2015 Chap12 folder.Add a new webpage named Default.aspx to the application. Change the DOCUMENT object’s Title property to Brookfield.Create a webpage similar to the one shown in Figure 12-25. The image on the webpage is stored in the VB2015 Chap12Carnival.png file. (Hint: To position the image as shown in the figure, click the image, click Format on the menu bar, click Position, and then click the Left button in the Wrapping style section of the Position dialog box.)Save and then start the application. Close the browser window and then close the application.Assignment Deliverables (The solution folder and project files should be in included in a zip [archive] file):
+
+The zip file containing the Visual Studio solution and project files.
+
+5/5 - (3 votes)
